@@ -18,9 +18,9 @@ int main()
 {
     Math m1;
     cout<<"Called power function with single argument\n";
-    cout<<m1.power(3);
+    cout<<m1.power(4);
     cout<<"\nCalled power function with two arguments\n";
-    cout<<m1.power(3,4);
+    cout<<m1.power(4,5);
     
     return 0;
 }
